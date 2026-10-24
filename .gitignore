@@ -1,0 +1,36 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Temporary & Log Files
+*.log
+*.tmp
+*.bak
+.temp/
+scratch/
+
+# Python cache (if any verification scripts run)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Media / Photos
+pics/
+*.heic
+
